@@ -1,4 +1,4 @@
-# [Simple Javascript Calculator](https://emon3.netlify.com/ JavaScript-Calculator) 
+# [Simple Javascript Calculator](https://calculator-js-emon.netlify.app/) 
 
 A simple JavaScript Calculator made by [Harsh Trivedi](https://harsh98trivedi.github.io)
 
